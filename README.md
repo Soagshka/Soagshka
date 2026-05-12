@@ -73,10 +73,14 @@ I write code, design systems, mentor engineers, and own delivery end-to-end.
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Focus Areas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soagshka&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soagshka&layout=compact&theme=dark&hide_border=true)
+| Area | Details |
+|------|---------|
+| **Architecture** | Microservices, Event-Driven, API Gateway patterns |
+| **Performance** | Query optimization, load testing, bottleneck analysis |
+| **Reliability** | TestContainers, E2E testing, CI/CD pipelines |
+| **Leadership** | Team building, mentoring, code review culture |
 
 ---
 
