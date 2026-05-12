@@ -83,7 +83,8 @@ I write code, design systems, mentor engineers, and own delivery end-to-end.
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-alexandergorbenko1996@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandergorbenko1996@gmail.com)
-[![HH.ru](https://img.shields.io/badge/HH.ru-Resume-E8001D?style=flat&logo=headhunter&logoColor=white)](https://hh.ru)
+[![HH.ru Lead](https://img.shields.io/badge/HH.ru-Resume-E8001D?style=flat&logo=headhunter&logoColor=white)]([https://hh.ru](https://hh.ru/resume/45053b32ff0e5599440039ed1f673071725348))
+[![HH.ru Senior](https://img.shields.io/badge/HH.ru-Resume-E8001D?style=flat&logo=headhunter&logoColor=white)]([https://hh.ru]([https://hh.ru/resume/45053b32ff0e5599440039ed1f673071725348](https://hh.ru/resume/e9f2c4eeff09d6145d0039ed1f317147397343)))
 
 ---
 
